@@ -38,9 +38,9 @@
     </description>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/launchpad/testing-war</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/launchpad/testing-war</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/launchpad/testing-war</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-launchpad-testing-war.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-launchpad-testing-war.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-launchpad-testing-war.git</url>
     </scm>
 
     <properties>
