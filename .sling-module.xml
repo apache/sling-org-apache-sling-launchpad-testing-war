@@ -21,7 +21,9 @@
     <jenkins>
         <jdks>
             <jdk>1.8</jdk>
+            <!-- Disabled since we can't easily pass JVM args to the Jetty process
             <jdk>9</jdk>
+            -->
         </jdks>
         <archivePatterns>
             <archivePattern>**/logs/*.log</archivePattern>
