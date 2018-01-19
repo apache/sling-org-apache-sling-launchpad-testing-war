@@ -29,7 +29,7 @@
 
     <artifactId>org.apache.sling.launchpad.testing-war</artifactId>
     <packaging>slingstart</packaging>
-    <version>10</version>
+    <version>11-SNAPSHOT</version>
 
     <name>Apache Sling Launchpad Testing WAR</name>
     <description>
@@ -41,7 +41,7 @@
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-launchpad-testing-war.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-launchpad-testing-war.git</developerConnection>
         <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-launchpad-testing-war.git</url>
-      <tag>org.apache.sling.launchpad.testing-war-10</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
