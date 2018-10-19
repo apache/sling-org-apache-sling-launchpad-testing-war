@@ -108,6 +108,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <createWebapp>true</createWebapp>
+                    <usePomDependencies>true</usePomDependencies>
                 </configuration>
             </plugin>
             <plugin>
@@ -222,8 +223,7 @@
         <dependency>
             <groupId>org.apache.sling</groupId>
             <artifactId>org.apache.sling.starter</artifactId>
-            <type>slingfeature</type>
-            <classifier>slingfeature</classifier>
+            <type>slingstart</type>
             <version>${project.version}</version>
             <scope>provided</scope>
         </dependency>
