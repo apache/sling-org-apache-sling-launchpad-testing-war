@@ -1,0 +1,7 @@
+github:
+  description: "Apache Sling Launchpd Testing WAR (deprecated)"
+  homepage: "https://sling.apache.org/"
+  labels:
+    - java
+    - sling
+    - deprecated
