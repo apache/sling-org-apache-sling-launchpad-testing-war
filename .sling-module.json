@@ -1,8 +1,0 @@
-{
-    "jenkins": {
-        "archivePatterns": [
-            "**/logs/*.log"
-        ],
-        "emailRecipients": ["dev@sling.apache.org"]
-    }
-}
